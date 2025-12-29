@@ -396,7 +396,7 @@ httpx-sse==0.4.3
     #   mcp
 hubspot-api-client==11.1.0
     # via onyx
-huggingface-hub==0.35.3
+huggingface-hub==1.2.3
     # via
     #   onyx
     #   tokenizers

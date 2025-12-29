@@ -158,7 +158,7 @@ httpx==0.28.1
     #   openai
 httpx-sse==0.4.3
     # via cohere
-huggingface-hub==0.35.3
+huggingface-hub==1.2.3
     # via tokenizers
 idna==3.11
     # via
