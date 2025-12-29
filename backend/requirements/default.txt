@@ -1158,7 +1158,7 @@ urllib3==2.6.2
     #   trafilatura
     #   types-requests
     #   unstructured-client
-uvicorn==0.35.0
+uvicorn==0.40.0
     # via
     #   fastmcp
     #   mcp
