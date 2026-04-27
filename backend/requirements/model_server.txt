@@ -441,7 +441,7 @@ sentence-transformers==4.0.2
     #   setfit
 sentencepiece==0.2.0
     # via onyx
-sentry-sdk==2.14.0
+sentry-sdk==2.58.0
     # via onyx
 setfit==1.1.1
     # via onyx

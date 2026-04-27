@@ -965,7 +965,7 @@ s3transfer==0.13.1
     # via boto3
 sendgrid==6.12.5
     # via onyx
-sentry-sdk==2.14.0
+sentry-sdk==2.58.0
     # via onyx
 shapely==2.0.6
     # via
