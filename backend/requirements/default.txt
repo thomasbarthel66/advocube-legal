@@ -1076,7 +1076,7 @@ types-requests==2.32.0.20250328
     #   langchainhub
 types-s3transfer==0.14.0
     # via boto3-stubs
-typing-extensions==4.15.0
+typing-extensions==4.16.0
     # via
     #   aiosignal
     #   alembic

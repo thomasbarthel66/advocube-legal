@@ -497,7 +497,7 @@ triton==3.2.0 ; platform_machine == 'x86_64' and sys_platform == 'linux'
     # via torch
 types-requests==2.32.0.20250328
     # via cohere
-typing-extensions==4.15.0
+typing-extensions==4.16.0
     # via
     #   aiosignal
     #   anyio
