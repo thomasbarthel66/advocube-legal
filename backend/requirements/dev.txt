@@ -258,7 +258,7 @@ markupsafe==3.0.3
     #   mako
 matplotlib==3.10.8
     # via onyx
-matplotlib-inline==0.2.1
+matplotlib-inline==0.2.2
     # via
     #   ipykernel
     #   ipython
